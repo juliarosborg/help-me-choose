@@ -4,10 +4,11 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 150px;
-  background: linear-gradient(#f69d3c, #3f87a6);
+  background: linear-gradient(#414347, #bdc3cc);
 }
 
 h1 {
+  font-family:  "Gill Sans", serif;
   font-weight: lighter;
   font-size: 40px;
   letter-spacing: 2px;
@@ -32,4 +33,13 @@ background-color: #ff00ff;
 
 .addoption {
   margin-top: 10px;
+}
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  
 }
